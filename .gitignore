@@ -1,0 +1,38 @@
+# Operating-system metadata
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+Desktop.ini
+
+# Python environments and generated caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+credentials.json
+service-account*.json
+
+# Raw-data exclusions remain in buried_resources-project/.gitignore.

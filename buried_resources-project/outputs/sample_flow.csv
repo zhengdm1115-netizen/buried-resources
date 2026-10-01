@@ -1,0 +1,10 @@
+gate,before,retained,excluded
+positive_generation_and_valid_year,217,200,17
+fractions_within_zero_one,200,200,0
+composition_closure_95_105pct,200,172,28
+plausible_eligible_fraction,172,172,0
+treatment_closure_95_105pct,172,153,19
+mass_based_collection_coverage,153,88,65
+mass_balance_recovery_feasible,88,86,2
+wdi_within_three_years,86,84,2
+positive_collection,84,84,0

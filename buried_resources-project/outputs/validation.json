@@ -1,0 +1,60 @@
+{
+  "source_rows": 217,
+  "gates": {
+    "positive_generation_and_valid_year": {
+      "before": 217,
+      "retained": 200,
+      "excluded": 17
+    },
+    "fractions_within_zero_one": {
+      "before": 200,
+      "retained": 200,
+      "excluded": 0
+    },
+    "composition_closure_95_105pct": {
+      "before": 200,
+      "retained": 172,
+      "excluded": 28
+    },
+    "plausible_eligible_fraction": {
+      "before": 172,
+      "retained": 172,
+      "excluded": 0
+    },
+    "treatment_closure_95_105pct": {
+      "before": 172,
+      "retained": 153,
+      "excluded": 19
+    },
+    "mass_based_collection_coverage": {
+      "before": 153,
+      "retained": 88,
+      "excluded": 65
+    },
+    "mass_balance_recovery_feasible": {
+      "before": 88,
+      "retained": 86,
+      "excluded": 2
+    },
+    "wdi_within_three_years": {
+      "before": 86,
+      "retained": 84,
+      "excluded": 2
+    },
+    "positive_collection": {
+      "before": 84,
+      "retained": 84,
+      "excluded": 0
+    }
+  },
+  "compositional_tolerance": [
+    0.95,
+    1.05
+  ],
+  "treatment_tolerance": [
+    0.95,
+    1.05
+  ],
+  "wdi_max_year_gap": 3,
+  "percent_storage": "decimal fractions"
+}

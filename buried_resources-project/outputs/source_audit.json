@@ -1,0 +1,20 @@
+{
+  "waw": {
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published/0039597/DR0095901/What_a_Waste_3.0_COUNTRY_Dataset_%26_Codebook.xlsx",
+    "bytes": 7268712,
+    "sha256": "42ec5fb213bbf79b9f6d860c24da3d19fc7f7e0ed274fdea9d73791e356172ee",
+    "file": "waw3_country.xlsx"
+  },
+  "gdp_pc_ppp": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.PP.KD?format=json&per_page=20000&date=2015:2024",
+    "bytes": 658571,
+    "sha256": "7e370e7b164bdf90e0962f2b71be6fc854be25c30ff209d47ff584eb4a952eb1",
+    "file": "wdi_NY.GDP.PCAP.PP.KD.json"
+  },
+  "urban_pct": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=20000&date=2015:2024",
+    "bytes": 630143,
+    "sha256": "afa059e2752704c65ecd8b6d494dcb2062fb8874a9a29d21a96174b75fefb978",
+    "file": "wdi_SP.URB.TOTL.IN.ZS.json"
+  }
+}
